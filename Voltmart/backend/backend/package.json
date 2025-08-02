@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@hoangsonww/fusion-electronics-backend": "file:.."
+  }
+}
